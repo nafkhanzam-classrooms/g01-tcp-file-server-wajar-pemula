@@ -1,8 +1,0 @@
-Hari ini belajar socket programming
-Materi:
-- TCP Server
-- Multi-client handling
-- File transfer
-
-Target:
-Bisa demo dengan lancar
