@@ -1,0 +1,11 @@
+TEST FILE 1
+
+Ini adalah simulasi file untuk pengujian upload ke server.
+File ini digunakan untuk memastikan bahwa proses transfer berjalan dengan baik.
+
+Langkah pengujian:
+1. Upload file ke server
+2. Cek apakah file tersimpan di server_storage
+3. Lakukan download kembali ke client
+
+Jika semua berhasil, maka sistem bekerja dengan benar.
