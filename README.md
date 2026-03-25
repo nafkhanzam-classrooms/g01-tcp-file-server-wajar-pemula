@@ -38,7 +38,6 @@ Perancangan protokol ini dibuat agar perintah teks tidak bercampur dengan data f
    
        Implementasi program dilakukan dengan menggunakan bahasa Python dan modul socket untuk komunikasi jaringan. Pada file client.py, pengguna dapat mengetik perintah melalui terminal. Client kemudian mengirimkan perintah ke server sesuai format yang telah ditentukan. Pada file server-thread.py, setiap client yang terhubung akan ditangani oleh thread terpisah. Dengan cara ini, server dapat melayani lebih dari satu client secara bersamaan. File yang diupload dari client akan disimpan ke folder server_storage. Saat client melakukan download, server akan mengirim file yang diminta dan client menyimpannya ke folder client_downloads. Selain itu, server juga mendukung broadcast message. Ketika satu client mengirim pesan menggunakan /msg, pesan tersebut akan diteruskan ke client lain yang sedang terhubung.
 
-
 ## Screenshot Hasil
 PENGUJIAN PROGRAM
    
