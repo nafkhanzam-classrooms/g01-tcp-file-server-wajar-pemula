@@ -1,6 +1,0 @@
-Langkah demo:
-1. Jalankan server
-2. Jalankan client
-3. Upload file
-4. Download file
-5. Tunjukkan broadcast
