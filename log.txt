@@ -1,6 +1,0 @@
-[LOG]
-Server started
-Client connected
-File uploaded
-File downloaded
-Client disconnected
