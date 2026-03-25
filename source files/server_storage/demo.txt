@@ -1,0 +1,21 @@
+DEMO FILE - TCP FILE SERVER
+
+Nama: (Isi nama kamu)
+Mata Kuliah: Pemrograman Jaringan
+
+Deskripsi:
+Program ini merupakan implementasi TCP File Server
+yang mendukung multiple client dengan beberapa metode:
+- Synchronous
+- Threading
+- Select
+- Poll
+
+Fitur utama:
+- Upload file dari client ke server
+- Download file dari server ke client
+- Menampilkan daftar file
+- Broadcast message antar client
+
+Kesimpulan:
+Sistem berhasil berjalan dengan baik dan stabil.
